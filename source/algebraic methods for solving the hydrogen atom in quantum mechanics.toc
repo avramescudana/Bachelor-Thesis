@@ -1,0 +1,109 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Introduction}{1}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Mathematical excursion: Lie theory}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Lie groups}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Algebraic groups}{4}{subsection.1.1.1}%
+\contentsline {subsubsection}{Group homomorphism and isomorphism}{5}{section*.3}%
+\contentsline {subsection}{\numberline {1.1.2}Topological groups}{6}{subsection.1.1.2}%
+\contentsline {subsubsection}{Topological spaces}{6}{section*.4}%
+\contentsline {subsubsection}{Group homeomorphism}{7}{section*.5}%
+\contentsline {subsubsection}{Compactness}{7}{section*.6}%
+\contentsline {subsubsection}{Topological groups}{7}{section*.7}%
+\contentsline {subsubsection}{Topological group isomorphism and homogeneity}{8}{section*.8}%
+\contentsline {subsubsection}{Differentiable and analytic manifolds}{8}{section*.9}%
+\contentsline {subsection}{\numberline {1.1.3}Unification between algebra and topology: Lie groups}{9}{subsection.1.1.3}%
+\contentsline {subsubsection}{Structure constants}{10}{section*.10}%
+\contentsline {subsubsection}{Lie group homomorphism and isomorphism}{11}{section*.11}%
+\contentsline {subsubsection}{Representation of a Lie group}{11}{section*.12}%
+\contentsline {subsubsection}{One-parameter subgroups}{12}{section*.13}%
+\contentsline {section}{\numberline {1.2}Lie algebras}{12}{section.1.2}%
+\contentsline {subsubsection}{The need for Lie algebras}{12}{section*.14}%
+\contentsline {subsubsection}{Structure constants}{13}{section*.15}%
+\contentsline {subsubsection}{Lie algebra homomorphism and isomorphism}{14}{section*.16}%
+\contentsline {subsubsection}{Representation of a Lie algebra}{14}{section*.17}%
+\contentsline {subsubsection}{Casimir operators}{15}{section*.18}%
+\contentsline {subsubsection}{Ado's theorem}{16}{section*.19}%
+\contentsline {section}{\numberline {1.3}Relationship between Lie algebras and Lie groups}{16}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Linearization}{16}{subsection.1.3.1}%
+\contentsline {subsubsection}{Tangent vector spaces}{16}{section*.20}%
+\contentsline {subsubsection}{The Lie algebra of a Lie group}{17}{section*.21}%
+\contentsline {subsection}{\numberline {1.3.2}Exponentiation}{18}{subsection.1.3.2}%
+\contentsline {chapter}{\numberline {2}Symmetry in classical and quantum mechanics}{20}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Symmetry in classical mechanics}{20}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Symmetry in quantum mechanics}{21}{section.2.2}%
+\contentsline {subsubsection}{Motion and constituent pictures}{21}{section*.22}%
+\contentsline {subsection}{\numberline {2.2.1}Symmetry groups}{22}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Dynamical groups and spectrum generating algebras}{23}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}$\mathcal {SO}(3)$ as the geometrical symmetry group}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Ladder opperators for $\mathfrak {so}(3)$}{26}{section.3.1}%
+\contentsline {subsubsection}{The effect of $\mathfrak {j}_\pm $ on $\mathinner {|{a,b}\rangle }$}{26}{section*.23}%
+\contentsline {subsection}{\numberline {3.1.1}Unirreps of $\mathfrak {so}(3)$}{27}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Ladder operators for $\mathfrak {so}(3)$ vector operators}{29}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Selection rules}{29}{subsection.3.2.1}%
+\contentsline {subsubsection}{The $m$-selection rule}{30}{section*.24}%
+\contentsline {subsubsection}{The $j$-selection rule}{30}{section*.25}%
+\contentsline {subsection}{\numberline {3.2.2}The effect of $v_\pm $ and $v_3$}{32}{subsection.3.2.2}%
+\contentsline {subsubsection}{The effect of $v_+$}{32}{section*.26}%
+\contentsline {subsubsection}{The effect of $v_3$}{33}{section*.27}%
+\contentsline {subsubsection}{The effect of $v_-$}{34}{section*.28}%
+\contentsline {subsection}{\numberline {3.2.3}Hermitian $\mathfrak {so}(3)$ vector operators}{35}{subsection.3.2.3}%
+\contentsline {chapter}{\numberline {4}$\mathcal {SO}(4)$ as the dynamical degeneracy group}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}The Laplace-Runge-Lenz vector}{37}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Classical case}{37}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Quantum mechanical case}{41}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}A hydrogenic realization of $\mathfrak {so}(4)$}{46}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Ladder operators for $\mathfrak {so}(4)$}{49}{subsection.4.2.1}%
+\contentsline {subsubsection}{Relation between the coefficients $\mathfrak {a}_l$ and $\mathfrak {b}_l$}{50}{section*.29}%
+\contentsline {subsubsection}{Connection to the hydrogenic realization via Casimir operators}{50}{section*.30}%
+\contentsline {subsection}{\numberline {4.2.2}$\mathfrak {so}(4)$ as a $\mathfrak {so}(3)\sim \mathfrak {su}(2)$ coupling problem}{51}{subsection.4.2.2}%
+\contentsline {subsubsection}{Obtaining the energy levels}{53}{section*.31}%
+\contentsline {subsubsection}{Explaining the additional degeneracy}{54}{section*.32}%
+\contentsline {section}{\numberline {4.3}A scaled hydrogenic realization of $\mathfrak {so}(4)$}{55}{section.4.3}%
+\contentsline {subsubsection}{Summary}{56}{section*.33}%
+\contentsline {chapter}{\numberline {5}$\mathcal {SU}(1,1)\sim \mathcal {SO}(2,1)$ as energy spectrum generating groups}{57}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Ladder operators for $\mathfrak {su}(1,1)\sim \mathfrak {so}(2,1)$}{58}{section.5.1}%
+\contentsline {subsubsection}{The effect of $\gamma _\pm $ on $\mathinner {|{a,b}\rangle }$}{59}{section*.34}%
+\contentsline {subsection}{\numberline {5.1.1}Unirreps of $\mathfrak {su}(1,1)\sim \mathfrak {so}(2,1)$}{60}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}A hydrogenic realization of $\mathfrak {su}(1,1)$}{61}{section.5.2}%
+\contentsline {subsubsection}{Solving differential equations}{61}{section*.35}%
+\contentsline {subsubsection}{Connection with the radial hydrogenic equation}{64}{section*.36}%
+\contentsline {subsubsection}{Energy levels obtained by means of tilting}{66}{section*.37}%
+\contentsline {subsubsection}{Summary}{66}{section*.38}%
+\contentsline {section}{\numberline {5.3}A hydrogenic realization of $\mathfrak {so}(2,1)$}{67}{section.5.3}%
+\contentsline {subsubsection}{Obtaining the generators}{67}{section*.39}%
+\contentsline {subsubsection}{Connection to the general algebra via the Casimir operator}{69}{section*.40}%
+\contentsline {subsubsection}{Connection to the hydrogenic radial equation}{69}{section*.41}%
+\contentsline {subsubsection}{Energy levels obtained by means of scaling}{70}{section*.42}%
+\contentsline {subsubsection}{Ladder operators}{71}{section*.43}%
+\contentsline {subsubsection}{Summary}{72}{section*.44}%
+\contentsline {chapter}{\numberline {6}$\mathcal {SO}(4,1)$ and $\mathcal {SO}(4,2)$ as spectrum generating groups}{73}{chapter.6}%
+\contentsline {section}{\numberline {6.1}A scaled hydrogenic realization of $\mathfrak {so}(4,1)$}{73}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Ladder operators for $\mathfrak {so}(4,1)$}{76}{subsection.6.1.1}%
+\contentsline {subsubsection}{The effect of $C_\pm $ and $C_3$}{77}{section*.45}%
+\contentsline {subsubsection}{Summary}{78}{section*.46}%
+\contentsline {section}{\numberline {6.2}A scaled hydrogenic realization of $\mathfrak {so}(4,2)$}{78}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Ladder operators for $\mathfrak {so}(4,2)$}{81}{subsection.6.2.1}%
+\contentsline {subsubsection}{The effect of $F_\pm $ and $F_3$}{82}{section*.47}%
+\contentsline {subsection}{\numberline {6.2.2}Hydrogenic tower of states}{82}{subsection.6.2.2}%
+\contentsline {subsubsection}{The effect of $B_+$}{83}{section*.48}%
+\contentsline {subsubsection}{The effect of $L_-$}{84}{section*.49}%
+\contentsline {subsubsection}{The effect of $\beta _+$}{84}{section*.50}%
+\contentsline {subsubsection}{Summary}{86}{section*.51}%
+\contentsline {chapter}{Conclusions}{87}{chapter*.52}%
+\contentsline {chapter}{Appendix \numberline {A}Levi-Civita symbol}{88}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {B}Commutator gymnastics}{91}{appendix.a.B}%
+\contentsline {section}{\numberline {B.1}General commutator identities}{91}{section.a.B.1}%
+\contentsline {section}{\numberline {B.2}Commutators involving $\mathbf {v}$}{92}{section.a.B.2}%
+\contentsline {section}{\numberline {B.3}Commutators involving $\mathbf {r}$ and $\mathbf {p}$}{94}{section.a.B.3}%
+\contentsline {section}{\numberline {B.4}Commutators involving $\mathbf {l}$}{98}{section.a.B.4}%
+\contentsline {section}{\numberline {B.5}Commutators involving $\mathbf {h}$}{104}{section.a.B.5}%
+\contentsline {section}{\numberline {B.6}Commutators involving QLRL operators}{107}{section.a.B.6}%
+\contentsline {section}{\numberline {B.7}Commutators involving scaled operators}{110}{section.a.B.7}%
+\contentsline {chapter}{Appendix \numberline {C}The tilting transformation}{123}{appendix.a.C}%
+\contentsline {section}{\numberline {C.1}General considerations}{123}{section.a.C.1}%
+\contentsline {section}{\numberline {C.2}Tilted operators}{123}{section.a.C.2}%
+\contentsline {section}{\numberline {C.3}Tilted hydrogenic radial equation}{125}{section.a.C.3}%
+\contentsline {subsection}{\numberline {C.3.1}Discrete eigenvalue spectrum}{126}{subsection.a.C.3.1}%
+\contentsline {subsection}{\numberline {C.3.2}Continuous eigenvalue spectrum}{127}{subsection.a.C.3.2}%
+\contentsline {section}{\numberline {C.4}The scaling transformation}{128}{section.a.C.4}%
+\contentsline {chapter}{Bibliography}{130}{property.C.4.1}%
